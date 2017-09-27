@@ -1,5 +1,5 @@
 {
-  "name": "ember-frost-core",
+  "name": "@turnstyle/ember-frost-core",
   "version": "1.23.11",
   "description": "The library of core frost components",
   "directories": {
